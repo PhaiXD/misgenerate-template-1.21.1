@@ -1,0 +1,12 @@
+﻿{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "north": "misgenerate:block/backrooms_wall_22",
+    "east": "misgenerate:block/backrooms_wall_22",
+    "south": "misgenerate:block/backrooms_wall_22",
+    "west": "misgenerate:block/backrooms_wall_22",
+    "up": "misgenerate:block/backrooms_floor2_2",
+    "down": "misgenerate:block/backrooms_12",
+    "particle": "misgenerate:block/backrooms_wall_22"
+  }
+}

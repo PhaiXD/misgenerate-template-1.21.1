@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "face=wall,facing=east": { "model": "minecraft:block/wall_torch" },
+    "face=wall,facing=north": { "model": "minecraft:block/wall_torch", "y": 270 },
+    "face=wall,facing=south": { "model": "minecraft:block/wall_torch", "y": 90 },
+    "face=wall,facing=west": { "model": "minecraft:block/wall_torch", "y": 180 },
+    "face=floor,facing=north": { "model": "misgenerate:block/tilted_torch_floor" },
+    "face=floor,facing=east": { "model": "misgenerate:block/tilted_torch_floor", "y": 90 },
+    "face=floor,facing=south": { "model": "misgenerate:block/tilted_torch_floor", "y": 180 },
+    "face=floor,facing=west": { "model": "misgenerate:block/tilted_torch_floor", "y": 270 },
+    "face=ceiling,facing=north": { "model": "misgenerate:block/tilted_torch_ceiling", "y": 180 },
+    "face=ceiling,facing=east": { "model": "misgenerate:block/tilted_torch_ceiling", "y": 270 },
+    "face=ceiling,facing=south": { "model": "misgenerate:block/tilted_torch_ceiling" },
+    "face=ceiling,facing=west": { "model": "misgenerate:block/tilted_torch_ceiling", "y": 90 }
+  }
+}

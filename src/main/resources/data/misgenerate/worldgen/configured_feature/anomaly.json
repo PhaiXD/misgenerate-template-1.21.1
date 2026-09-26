@@ -1,0 +1,8 @@
+{
+  "type": "misgenerate:anomaly",
+  "config": {
+    "structure_chance": 0.8,
+    "terrain_chance": 0.2,
+    "max_scan_radius": 8
+  }
+}
